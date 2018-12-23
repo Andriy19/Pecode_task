@@ -1,0 +1,28 @@
+{
+  "name": "pecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andriy19/Pecode_task.git"
+  },
+  "author": "Andriy Mazuryk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andriy19/Pecode_task/issues"
+  },
+  "homepage": "https://github.com/Andriy19/Pecode_task#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  }
+}
